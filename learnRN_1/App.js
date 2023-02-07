@@ -7,6 +7,7 @@
  */
 newB1 first
 second
+third
 import React from 'react';
 import type {Node} from 'react';
 import {
