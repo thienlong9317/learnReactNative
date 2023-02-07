@@ -5,7 +5,7 @@
  * @format
  * @flow strict-local
  */
-newB2 first
+newB1 first
 second
 third
 import React from 'react';
