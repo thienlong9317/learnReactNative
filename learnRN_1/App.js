@@ -6,6 +6,7 @@
  * @flow strict-local
  */
 newB2 first
+second
 import React from 'react';
 import type {Node} from 'react';
 import {

@@ -1,0 +1,10 @@
+diff a/learnRN_1/App.js b/learnRN_1/App.js	(rejected hunks)
+@@ -102,7 +102,7 @@
+   },
+   sectionTitle: {
+     fontSize: 24,
+-    fontWeight: '600',
++    fontWeight: '500',
+   },
+   sectionDescription: {
+     marginTop: 8,
